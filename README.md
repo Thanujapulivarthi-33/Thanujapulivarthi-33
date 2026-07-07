@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Thanujapulivarthi-33/Thanujapulivarthi-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ #Hi 👋, I'm Pulivarthi Thanuja
 
-Here are some ideas to get you started:
+## 🎓 About Me
+- 🎓 B.Tech CSE Student (2027)
+- 🏫 Chalapathi Institute of Technology
+- 🌍 Guntur, Andhra Pradesh
+- 💻 Aspiring Full Stack Developer
+- ☁️ Learning AWS Cloud
+- 🐍 Python Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+- AWS
+
+## 🌱 Currently Learning
+- MERN Stack
+- AWS Cloud
+- Data Structures & Algorithms
+
+## 📫 Contact Me
+- Email: thanujapulivarthi@gmail.com
+- GitHub: https://github.com/Thanujapulivarthi-33
+- Linkedin:www.linkedin.com/in/thanuja-pulivarthi-296122342
+
+⭐ Thank you for visiting my profile!
