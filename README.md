@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=250&section=header&text=Pulivarthi%20Thanuja&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# 👋 Hi, I'm Pulivarthi Thanuja
+# 👋 Hi, I'm Thanuja Pulivarthi
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React.js+Developer;Node.js+Developer;AWS+Cloud+Learner;Python+Programmer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 ## 💫 About Me
 <div align="center">
 
-# 👋 Hi, I'm Pulivarthi Thanuja
+# 👋 Hi, I'm Thanuja Pulivarthi
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AWS+Cloud+Learner;Python+Programmer;React+Developer;Open+Source+Enthusiast" />
 
