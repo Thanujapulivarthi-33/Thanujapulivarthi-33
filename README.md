@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=250&section=header&text=Pulivarthi%20Thanuja&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 👋 Hi, I'm Thanuja Pulivarthi
 
@@ -61,23 +59,8 @@ Python • AWS • HTML • CSS • JavaScript
 </p>
 
 
-# 📈 Most Used Languages
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanujapulivarthi-33&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thanujapulivarthi-33&theme=algolia&row=2&column=4"/>
-
-</p>
 
 
 
@@ -99,16 +82,10 @@ Python • AWS • HTML • CSS • JavaScript
 
 </p>
 
----
-
-# 💻 Quote
-
-<div align="center">
-
-</div>
 
 
-<div align="center">
+
+
 
 ### 🚀 Happy Coding 🚀
 
