@@ -73,7 +73,11 @@ Python • AWS • HTML • CSS • JavaScript
 </a>
 
 </p>
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Thanujapulivarthi-33&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
@@ -137,9 +141,5 @@ const thanuja = {
 
     goal: "Become a Professional Full Stack Developer 🚀"
 };
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thanujapulivarthi-33&theme=tokyonight&hide_border=true" />
-</p>
 console.log("Welcome to my GitHub Profile 👋");
