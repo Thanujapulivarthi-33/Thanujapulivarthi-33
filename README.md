@@ -73,11 +73,7 @@ Python • AWS • HTML • CSS • JavaScript
 </a>
 
 </p>
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanujapulivarthi-33&theme=tokyonight&hide_border=true" />
-</p>
 
 
 
